@@ -6,8 +6,8 @@ title: Emil Kitti - CV
 Civilingenjör datateknik student
 
 <div id="webaddress">
-<a href="mailto:emil.kitti@outlook.com">emil.kitti@outlook.com</a>
-| <a href="http://cx.gs">hemsida</a>
+<span>mejl: <a href="mailto:emil.kitti@outlook.com">emil.kitti@outlook.com</a></span>
+| <span>hemsida: <a href="http://cx.gs">cx.gs</a></span>
 </div>
 
 ## Utbildning

@@ -20,11 +20,11 @@ __Civilingenjör Datateknik, Luleå Tekniska Universitet.__
  - Swag.
  
 ## Språk
-__Svenska__
+### Svenska
 - Modersmål.
-__Engelska__
+### Engelska
 - Goda kunskaper inom både tal och skrift.
-__Tyska__
+### Tyska
 - Väldigt begränsade kunskaper inom både tal och skrift.
 
 `1654-1660`

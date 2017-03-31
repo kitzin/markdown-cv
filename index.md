@@ -21,7 +21,7 @@ __Civilingenjör Datateknik, Luleå Tekniska Universitet.__
  
 ## Språk
 __Svenska__
-- Modersmål
+- Modersmål.
 __Engelska__
 - Goda kunskaper inom både tal och skrift.
 __Tyska__

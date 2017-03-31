@@ -7,12 +7,13 @@ Civilingenjör datateknik student
 
 <div id="webaddress">
 <a href="mailto:emil.kitti@outlook.com">emil.kitti@outlook.com</a>
-| <span>my <a href="http://cx.gs">website</a></span>
+| <a href="http://cx.gs">hemsida</a>
 </div>
 
-## Currently
-
-Standing on the shoulders of giants
+## Utbildning
+ 2011 - 2014
+__Civilingenjör Datateknik vid Luleå Tekniska Universitet.__
+- En massa swag
 
 ### Specialized in
 

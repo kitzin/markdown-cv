@@ -3,11 +3,11 @@ layout: cv
 title: Emil Kitti - CV
 ---
 # Emil Kitti
-Civilingenjör datateknik student.
+Civilingenjör datateknik student
 
 <div id="webaddress">
-<a href="mailto:emil.kitti@outlook.com">emil.kitti@œutlook.com</a>
-| <span>My <a href="http://cx.gs">website</a></span>
+<a href="mailto:emil.kitti\@outlook.com">emil.kitti@œutlook.com</a>
+| <span>website: [cx.gs](http://cx.gs)</span>
 </div>
 
 ## Currently

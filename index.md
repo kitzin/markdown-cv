@@ -1,15 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Emil Kitti - CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Civilingenjör datateknik student, utvercklare på fritiden.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:emil.kitti@outlook.com">emil.kitti@œutlook.com</a>
+| <span>My <a href="http://cx.gs">website</a></span>
 </div>
-
 
 ## Currently
 

@@ -21,11 +21,11 @@ __Civilingenjör Datateknik, Luleå Tekniska Universitet.__
  
 ## Språk
 ### **Svenska*
-- Modersmål.
+Modersmål.
 ### **Engelska**
-- Goda kunskaper inom både tal och skrift.
+Goda kunskaper inom både tal och skrift.
 ### **Tyska**
-- Väldigt begränsade kunskaper inom både tal och skrift.
+Väldigt begränsade kunskaper inom både tal och skrift.
 
 `1654-1660`
 __The King's School, Grantham.__

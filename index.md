@@ -20,10 +20,11 @@ __Civilingenjör Datateknik, Luleå Tekniska Universitet.__
  - Swag.
  
 ## Språk kunskaper
+``
 __Svenska__
-Modersmål
+- Modersmål
 __Engelska__
-Goda kunskaper inom både tal och skrift.
+- Goda kunskaper inom både tal och skrift.
 
 `1654-1660`
 __The King's School, Grantham.__

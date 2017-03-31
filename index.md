@@ -17,18 +17,13 @@ __Civilingenjör Datateknik, Luleå Tekniska Universitet.__
 
  `2011 - 2014`
  __Teknikprogrammet med inrikning på informations- och medieteknik, Luleå Gymnasieby.__
- - En ännu mer massa swag.
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
+ - Swag.
+ 
+## Språk kunskaper
+__Svenska__
+Modersmål
+__Engelska__
+Goda kunskaper inom både tal och skrift.
 
 `1654-1660`
 __The King's School, Grantham.__

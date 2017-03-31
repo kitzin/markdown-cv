@@ -11,10 +11,13 @@ Civilingenjör datateknik student
 </div>
 
 ## Utbildning
- `2011 - 2014`
-__Civilingenjör Datateknik vid Luleå Tekniska Universitet.__
+ `2014 - 2019`
+__Civilingenjör Datateknik, Luleå Tekniska Universitet.__
 - En massa swag
 
+ `2011 - 2014`
+ __Teknikprogrammet med inrikning på informations och mediateknik, Luleå Gymnasieby.__
+ - En ännu mer massa swag.
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)

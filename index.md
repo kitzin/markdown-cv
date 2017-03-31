@@ -20,7 +20,6 @@ __Civilingenjör Datateknik, Luleå Tekniska Universitet.__
  - Swag.
  
 ## Språk kunskaper
-``
 __Svenska__
 - Modersmål
 __Engelska__

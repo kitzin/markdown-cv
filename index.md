@@ -11,7 +11,7 @@ Civilingenjör datateknik student
 </div>
 
 ## Utbildning
- 2011 - 2014
+ `2011 - 2014`
 __Civilingenjör Datateknik vid Luleå Tekniska Universitet.__
 - En massa swag
 

@@ -6,8 +6,8 @@ title: Emil Kitti - CV
 Civilingenjör datateknik student
 
 <div id="webaddress">
-<a href="mailto:emil.kitti\@outlook.com">emil.kitti@œutlook.com</a>
-| <span>website: [cx.gs](http://cx.gs)</span>
+<a href="mailto:emil.kitti@outlook.com">emil.kitti@outlook.com</a>
+| <span>my <a href="http://cx.gs">website</a></span>
 </div>
 
 ## Currently

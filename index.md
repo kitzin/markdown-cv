@@ -19,11 +19,13 @@ __Civilingenjör Datateknik, Luleå Tekniska Universitet.__
  __Teknikprogrammet med inrikning på informations- och medieteknik, Luleå Gymnasieby.__
  - Swag.
  
-## Språk kunskaper
+## Språk
 __Svenska__
 - Modersmål
 __Engelska__
 - Goda kunskaper inom både tal och skrift.
+__Tyska__
+- Väldigt begränsade kunskaper inom både tal och skrift.
 
 `1654-1660`
 __The King's School, Grantham.__

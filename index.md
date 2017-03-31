@@ -16,7 +16,7 @@ __Civilingenjör Datateknik, Luleå Tekniska Universitet.__
 - En massa swag
 
  `2011 - 2014`
- __Teknikprogrammet med inrikning på informations och mediateknik, Luleå Gymnasieby.__
+ __Teknikprogrammet med inrikning på informations- och medieteknik, Luleå Gymnasieby.__
  - En ännu mer massa swag.
 ### Specialized in
 
